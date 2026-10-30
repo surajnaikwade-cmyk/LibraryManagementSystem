@@ -84,10 +84,15 @@ LibraryManagementSystem/
 | Class         | Responsibility |
 
 | Book          | Stores book information and availability |
+
 | Library       | Manages books, users, and library operations |
+
 | Main          | Provides the main menu and application flow |
+
 | User          | Stores library member information |
+
 | IssueRecord   | Maintains book issue and return history |
+
 | InputHandler  | Handles console input and validation |
 
 ## How to Run the Project
